@@ -1,6 +1,6 @@
 # Snake Game
 
-Javascript snake game. Page here: https://compdelta.github.io/snake-game/
+JavaScript snake game. Page here: https://compdelta.github.io/snake-game/
 
 
 
