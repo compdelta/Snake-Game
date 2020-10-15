@@ -46,8 +46,6 @@ h2 {
 }
 
 .btn {
-    background-color: yellow;
-    color: black;
     padding: 0.2em 0.5em;
     text-decoration: none;
 }
@@ -58,6 +56,11 @@ h2 {
 
 .apple {
     background-image: url("apple.png");
+}
+
+.btn:link, .btn:visited {
+    color: black;
+    background-color: yellow; 
 }
 
 .btn:hover {
